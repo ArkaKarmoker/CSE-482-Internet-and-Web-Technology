@@ -1,0 +1,13 @@
+div {
+    border-color: black;
+    border-style: solid;
+    margin-bottom: 1rem;
+    height: auto;
+    width: 25rem;
+    text-align: center;
+    font-size: 1.5rem;
+    color: black;
+    padding: 10px; /* Add some padding for better spacing */
+    overflow: hidden; /* Prevent overflow of content */
+    word-wrap: break-word; /* Break long words to prevent overflow */
+}

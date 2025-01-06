@@ -1,0 +1,7 @@
+Explanation of colspan and rowspan Attributes:
+colspan=xx This attribute allows a table cell to span across multiple columns. For example, colspan=2 makes the cell stretch across two columns instead of just one.
+
+rowspan=xx This attribute allows a table cell to span across multiple rows. For example, rowspan=2 makes the cell cover two rows.
+
+How They Help:
+These attributes are crucial for creating more complex table layouts. By allowing cells to span across multiple columns or rows, they merge cells in specific parts of the table, which is necessary to replicate the layout. In this case, colspan is used to create cells that cover the full width of the table for elements like the header, navigation, and footer, while rowspan helps to combine cells for the section that stretches vertically alongside the aside and article elements.
