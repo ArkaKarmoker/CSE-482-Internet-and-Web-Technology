@@ -1,0 +1,3 @@
+LT4
+
+To solidify understanding of fundamental JavaScript concepts and effectively utilize the debugger tool.

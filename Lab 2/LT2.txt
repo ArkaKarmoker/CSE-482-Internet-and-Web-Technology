@@ -1,0 +1,5 @@
+LT2
+
+Construct a basic portfolio website of your own. The webpage should have your photo, career objective,
+working experience, skills, links etc. Use external CSS script. Your page must be fully responsive; no part should
+be broken when displayed on different screen sizes. Think as if its a page of your project
